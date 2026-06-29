@@ -1,0 +1,64 @@
+canonical_identifier: bkk:krp/KR2m0051/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2m0051/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 補漢兵志
+  date: '2015-08-24 22:52:52.520092'
+  source:
+    repository: kanripo
+    path: KR2m0051
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2m0051_000-WYG.yaml, hash: 'sha256:82ca7ee4f67953a0a84fc39a3edca08f5314da7a551de616d9ed0607b6976a84'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2m0051_000-WYG.markers.yaml, hash: 'sha256:6d6ef087bd45344f50da25cbe572aede27e7e0968b9467bb7a1356aa39d6390e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2m0051_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 520
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2m0051_WYG_000-4a
+    span:
+    - body
+    - 520
+    - 1974
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2m0051_WYG_000-8a
+    span:
+    - body
+    - 1974
+    - 2300
+  label: 綱目
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2m0051_WYG_000-11a
+    span:
+    - body
+    - 2300
+    - 19786
+  label: 補漢兵志并注
+  type: section
+  level: 1
+hash: sha256:105e0d7af2cac89e61df48d0ed01593c632eb38e83cdb00d7b3f535f7853b436
