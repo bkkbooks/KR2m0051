@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2m0051_000.yaml, hash: 'sha256:364851c5ce1ec2982ea6a55560464d443742b1a0f68bc5f71186cd2b76c5dac3'}
+  - {seq: 0, filename: KR2m0051_000.yaml, hash: 'sha256:7012235bfa23427df5d30c55cdc66360ef29456b17c56965b2916742e1027840'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2m0051_000.markers.yaml, hash: 'sha256:945cadc4222043d889fade5ccefe5edd9bba4588579fbaa66044998dab896c86'}
+  - {seq: 0, role: markers, filename: assets/KR2m0051_000.markers.yaml, hash: 'sha256:3efffee862df08358b71bcbee32666452c127e45cf17305cc8d90de534262d9a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -64,7 +64,4 @@ table_of_contents:
   label: 補漢兵志并注
   type: section
   level: 1
-hash: sha256:82405dcf2199cd173e11da788d97611e203f43fc93658815064920cf33a954d9
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8b7234ef4c7f85fb9b6eaab45e385ead1b789798e2df068fb1fe4146aae98904
