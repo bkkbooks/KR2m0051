@@ -22,7 +22,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2m0051_000.yaml, hash: 'sha256:f8bbde2e97bfc56ba05617d76e0413b3bb1eaeb78a7b8ab978e0a537b92e6cf2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2m0051_000.markers.yaml, hash: 'sha256:9ec21bc3082046f672425b901dfd2237e1f11be93349b36b687312ec7ab4ec41'}
+  - {seq: 0, role: markers, filename: assets/KR2m0051_000.markers.yaml, hash: 'sha256:7121db25b5697bf15f498928d72573637ce9b37579bb296ca8aed0a957c577a4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -64,7 +64,7 @@ table_of_contents:
   label: 補漢兵志并注
   type: section
   level: 1
-hash: sha256:8b290ba57beb46bb8c19013e4a2de6cc57aff6dc7dfed8aa245b2b31e6f21029
+hash: sha256:35bc87186eb4aa66874bd3fc3156ee867f4170d7cecfcb5dd53b22f66043141b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2m0051_000-WYG.yaml, hash: 'sha256:82ca7ee4f67953a0a84fc39a3edca08f5314da7a551de616d9ed0607b6976a84'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2m0051_000-WYG.markers.yaml, hash: 'sha256:6d6ef087bd45344f50da25cbe572aede27e7e0968b9467bb7a1356aa39d6390e'}
+  - {seq: 0, role: markers, filename: assets/KR2m0051_000-WYG.markers.yaml, hash: 'sha256:e78dbd2b6e6f823cedb0eaab878fc189f4485addc3b9ebe30fcceb4626372039'}
 table_of_contents:
 - ref:
     seq: 0
@@ -61,4 +61,4 @@ table_of_contents:
   label: 補漢兵志并注
   type: section
   level: 1
-hash: sha256:105e0d7af2cac89e61df48d0ed01593c632eb38e83cdb00d7b3f535f7853b436
+hash: sha256:899d93809cecde84dacd54a3e2b1b555bbf6eaa9f585ecd14502a2b42fbb6e7e
